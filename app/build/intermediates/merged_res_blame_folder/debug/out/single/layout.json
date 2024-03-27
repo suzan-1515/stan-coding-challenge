@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.android.pictureinpicture.app-mergeDebugResources-31:/layout/movie_activity.xml",
+        "source": "com.example.android.pictureinpicture.app-main-34:/layout/movie_activity.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-mergeDebugResources-31:/layout/main_activity.xml",
+        "source": "com.example.android.pictureinpicture.app-main-34:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-mergeDebugResources-31:/layout/view_movie.xml",
+        "source": "com.example.android.pictureinpicture.app-main-34:/layout/view_movie.xml"
+    }
+]

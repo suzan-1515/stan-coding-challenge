@@ -1,0 +1,4 @@
+03-27 19:46:57.359 26860 26890 I TestRunner: started: testStartOrPauseTimer(com.example.android.pictureinpicture.MainViewModelTest)
+03-27 19:46:57.450 26860 26890 E ictureinpicture: Attempt to load writable dex file: /data/user/0/com.example.android.pictureinpicture/cache/kRKhmCCQ.jar
+03-27 19:46:57.450 26860 26890 W ziparchive: Unable to open '/data/user/0/com.example.android.pictureinpicture/cache/kRKhmCCQ.dm': No such file or directory
+03-27 19:46:57.457 26860 26890 I TestRunner: finished: testStartOrPauseTimer(com.example.android.pictureinpicture.MainViewModelTest)

@@ -1,0 +1,3 @@
+com.example.android.pictureinpicture.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

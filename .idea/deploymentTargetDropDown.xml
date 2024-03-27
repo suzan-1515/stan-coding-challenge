@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="MainViewModelTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="testRestorePauseState()">
+        <State />
+      </entry>
+      <entry key="testRestoreStartState()">
+        <State />
+      </entry>
+      <entry key="testSavePauseState()">
+        <State />
+      </entry>
+      <entry key="testSaveStartState()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>

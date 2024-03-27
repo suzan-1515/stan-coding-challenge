@@ -1,0 +1,380 @@
+# 2024-03-27T08:46:57.648Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 7
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "MainViewModelTest"
+    test_package: "com.example.android.pictureinpicture"
+    test_method: "testRestTimer"
+    start_time {
+      seconds: 1711529216
+      nanos: 413000000
+    }
+    end_time {
+      seconds: 1711529216
+      nanos: 958000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/logcat-com.example.android.pictureinpicture.MainViewModelTest-testRestTimer.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainViewModelTest"
+    test_package: "com.example.android.pictureinpicture"
+    test_method: "testStartOrPauseTimer"
+    start_time {
+      seconds: 1711529216
+      nanos: 994000000
+    }
+    end_time {
+      seconds: 1711529217
+      nanos: 51000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/logcat-com.example.android.pictureinpicture.MainViewModelTest-testStartOrPauseTimer.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainViewModelTest"
+    test_package: "com.example.android.pictureinpicture"
+    test_method: "testRestoreStartState"
+    start_time {
+      seconds: 1711529217
+      nanos: 53000000
+    }
+    end_time {
+      seconds: 1711529217
+      nanos: 82000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/logcat-com.example.android.pictureinpicture.MainViewModelTest-testRestoreStartState.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainViewModelTest"
+    test_package: "com.example.android.pictureinpicture"
+    test_method: "testSaveStartState"
+    start_time {
+      seconds: 1711529217
+      nanos: 85000000
+    }
+    end_time {
+      seconds: 1711529217
+      nanos: 93000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/logcat-com.example.android.pictureinpicture.MainViewModelTest-testSaveStartState.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainViewModelTest"
+    test_package: "com.example.android.pictureinpicture"
+    test_method: "testTimerDefaultState"
+    start_time {
+      seconds: 1711529217
+      nanos: 97000000
+    }
+    end_time {
+      seconds: 1711529217
+      nanos: 108000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/logcat-com.example.android.pictureinpicture.MainViewModelTest-testTimerDefaultState.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainViewModelTest"
+    test_package: "com.example.android.pictureinpicture"
+    test_method: "testRestorePauseState"
+    start_time {
+      seconds: 1711529217
+      nanos: 110000000
+    }
+    end_time {
+      seconds: 1711529217
+      nanos: 117000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/logcat-com.example.android.pictureinpicture.MainViewModelTest-testRestorePauseState.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainViewModelTest"
+    test_package: "com.example.android.pictureinpicture"
+    test_method: "testSavePauseState"
+    start_time {
+      seconds: 1711529217
+      nanos: 120000000
+    }
+    end_time {
+      seconds: 1711529217
+      nanos: 151000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/logcat-com.example.android.pictureinpicture.MainViewModelTest-testSavePauseState.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/outputs/androidTest-results/connected/SM-S918B - 14/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

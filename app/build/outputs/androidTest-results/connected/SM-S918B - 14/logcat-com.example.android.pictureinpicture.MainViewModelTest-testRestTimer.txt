@@ -1,0 +1,28 @@
+03-27 19:46:56.800 26860 26890 I TestRunner: started: testRestTimer(com.example.android.pictureinpicture.MainViewModelTest)
+03-27 19:46:56.822  3008  4642 I SearchManagerService: _updateSearchables completed.
+03-27 19:46:56.822  3008  4642 I SearchManagerService: _updateSearchables
+03-27 19:46:56.826  3008  4642 W Searchables: No global search activity found
+03-27 19:46:56.826  3008  4642 I SearchManagerService: _updateSearchables completed.
+03-27 19:46:56.948  5252  5252 I EPDG -- SIM1 [EpdgIntfCont]: Not Mobile Interface. Ignoring Event
+03-27 19:46:56.948  4832  4832 I AODNotificationManager: updateNotification()
+03-27 19:46:56.950  5252  5252 I EPDG -- SIM1 [EpdgIntfCont]: Not Mobile Interface. Ignoring Event
+03-27 19:46:56.950  5252  5252 I EPDG -- SIM0 [EpdgIntfCont]: Not Mobile Interface. Ignoring Event
+03-27 19:46:56.950  5252  7499 I EPDG -- SIM0 [EpdgNetworkMgmtObserver]: EpdgAddressUpdated: address: Suppressed iface: SuppressedmFqdnRetryCount : 0
+03-27 19:46:56.950  5252  7499 I EPDG -- SIM0 [EpdgNetworkMgmtObserver]: EpdgAddressUpdated: address: Suppressed iface: SuppressedmFqdnRetryCount : 0
+03-27 19:46:56.950  5252  5252 I EPDG -- SIM0 [EpdgIntfCont]: Not Mobile Interface. Ignoring Event
+03-27 19:46:56.975 26860 26890 W ictureinpicture: Accessing hidden method Ldalvik/system/BaseDexClassLoader;->addDexPath(Ljava/lang/String;Z)V (unsupported, reflection, allowed)
+03-27 19:46:57.049  3008 16409 D system_server: mAFPC_Read - w = 1080, h = 2316, s = 8, f = 4, s_size = 10079232, luminance = 10, count = 1585, captureOrientation = 0
+03-27 19:46:57.099 26860 26890 E ictureinpicture: Attempt to load writable dex file: /data/user/0/com.example.android.pictureinpicture/cache/E2E7iPKL.jar
+03-27 19:46:57.100 26860 26890 D CompatibilityChangeReporter: Compat change id reported: 218865702; UID 10461; state: DISABLED
+03-27 19:46:57.100 26860 26890 W ziparchive: Unable to open '/data/user/0/com.example.android.pictureinpicture/cache/E2E7iPKL.dm': No such file or directory
+03-27 19:46:57.157  5252  5252 W Settings: Setting wifi_on has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+03-27 19:46:57.157  5252  5252 W Settings: Setting wifi_on has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+03-27 19:46:57.158  3008  6682 D SemWifiUsabilityStatsMonitor: onWifiUsabilityStats - seqNum 72451, isSameBssidAndFreq true
+03-27 19:46:57.159  3008  4701 I SemWifiLinkQualityMonitor: Link stat: 741 / 29 / 1.85 (24) / 864 / -61.0 || linkSpeedMbps 100.0 : 864.0 / successRate 0.5 : 0.5416667 / ccaRo 0.55 : 0.0391363 / RT QoS: true (true) || QoS: 0.243 ms / 32.879 Mbps / 0 (N)
+03-27 19:46:57.160  5252  5252 I EPDG -- SIM0 [SMARTWIFI]: Rssi : -61 highrange : -75 lowrange : -85 mIsRssiInHystersis : false
+03-27 19:46:57.161  5252  5252 I EPDG -- SIM0 [SMARTWIFI]: Rssi : -61 highrange : -75 lowrange : -85 mIsRssiInHystersis : false
+03-27 19:46:57.161  5252  5252 I EPDG -- SIM0 [SMARTWIFI]: getHandoverThresholdMet: value is: false
+03-27 19:46:57.241  3008  4722 D SemWifiSwitchForIndividualAppsService: isSkipNetworkCondition - result:2
+03-27 19:46:57.307 26860 26890 E ictureinpicture: Attempt to load writable dex file: /data/user/0/com.example.android.pictureinpicture/cache/K67j854M.jar
+03-27 19:46:57.310 26860 26890 W ziparchive: Unable to open '/data/user/0/com.example.android.pictureinpicture/cache/K67j854M.dm': No such file or directory
+03-27 19:46:57.354 26860 26890 I TestRunner: finished: testRestTimer(com.example.android.pictureinpicture.MainViewModelTest)

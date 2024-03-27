@@ -1,0 +1,2 @@
+03-27 19:46:57.526 26860 26890 I TestRunner: started: testSavePauseState(com.example.android.pictureinpicture.MainViewModelTest)
+03-27 19:46:57.545 26860 26890 I TestRunner: finished: testSavePauseState(com.example.android.pictureinpicture.MainViewModelTest)

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/drawable_ic_info_24dp.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/drawable/ic_info_24dp.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/drawable_ic_pause_24dp.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/drawable/ic_pause_24dp.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/drawable_ic_fast_rewind_64dp.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/drawable/ic_fast_rewind_64dp.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/drawable_shade.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/drawable/shade.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/drawable_ic_minimize_24dp.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/drawable/ic_minimize_24dp.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/drawable_ic_pause_64dp.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/drawable/ic_pause_64dp.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/drawable_ic_play_arrow_24dp.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/drawable/ic_play_arrow_24dp.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/drawable_ic_fast_forward_64dp.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/drawable/ic_fast_forward_64dp.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/layout_view_movie.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/layout/view_movie.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/raw_vid_bigbuckbunny.mp4.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/raw/vid_bigbuckbunny.mp4"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/layout_movie_activity.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/layout/movie_activity.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/drawable_ic_refresh_24dp.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/drawable/ic_refresh_24dp.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/drawable_ic_picture_in_picture_alt.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/drawable/ic_picture_in_picture_alt.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/layout_main_activity.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.example.android.pictureinpicture.app-merged_res-32:/drawable_ic_play_arrow_64dp.xml.flat",
+        "source": "com.example.android.pictureinpicture.app-main-34:/drawable/ic_play_arrow_64dp.xml"
+    }
+]

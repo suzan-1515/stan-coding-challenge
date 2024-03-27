@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.android.pictureinpicture.MainViewModelTest" tests="7" failures="0" errors="0" skipped="0" time="1.13" timestamp="2024-03-27T08:46:57" hostname="localhost">
+  <properties>
+    <property name="device" value="SM-S918B - 14" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="testRestTimer" classname="com.example.android.pictureinpicture.MainViewModelTest" time="0.531" />
+  <testcase name="testStartOrPauseTimer" classname="com.example.android.pictureinpicture.MainViewModelTest" time="0.057" />
+  <testcase name="testRestoreStartState" classname="com.example.android.pictureinpicture.MainViewModelTest" time="0.029" />
+  <testcase name="testSaveStartState" classname="com.example.android.pictureinpicture.MainViewModelTest" time="0.009" />
+  <testcase name="testTimerDefaultState" classname="com.example.android.pictureinpicture.MainViewModelTest" time="0.01" />
+  <testcase name="testRestorePauseState" classname="com.example.android.pictureinpicture.MainViewModelTest" time="0.005" />
+  <testcase name="testSavePauseState" classname="com.example.android.pictureinpicture.MainViewModelTest" time="0.031" />
+</testsuite>

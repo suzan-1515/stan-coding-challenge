@@ -1,0 +1,115 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (C) 2021 The Android Open Source Project
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~      http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.pictureinpicture.test" >
+19
+20    <uses-sdk
+20-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:20:5-22:41
+21        android:minSdkVersion="31"
+21-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:21:9-35
+22        android:targetSdkVersion="33" />
+22-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:22:9-38
+23
+24    <instrumentation
+24-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:24:5-29:72
+25        android:name="androidx.test.runner.AndroidJUnitRunner"
+25-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:25:9-63
+26        android:functionalTest="false"
+26-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:26:9-39
+27        android:handleProfiling="false"
+27-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:27:9-40
+28        android:label="Tests for com.example.android.pictureinpicture"
+28-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:28:9-71
+29        android:targetPackage="com.example.android.pictureinpicture" />
+29-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:29:9-69
+30
+31    <queries>
+31-->[androidx.test:runner:1.5.2] /Users/sujanparajuli/.gradle/caches/transforms-3/80a2b419968f7cd60b6f000f1b18d2a8/transformed/runner-1.5.2/AndroidManifest.xml:24:5-28:15
+32        <package android:name="androidx.test.orchestrator" />
+32-->[androidx.test:runner:1.5.2] /Users/sujanparajuli/.gradle/caches/transforms-3/80a2b419968f7cd60b6f000f1b18d2a8/transformed/runner-1.5.2/AndroidManifest.xml:25:9-62
+32-->[androidx.test:runner:1.5.2] /Users/sujanparajuli/.gradle/caches/transforms-3/80a2b419968f7cd60b6f000f1b18d2a8/transformed/runner-1.5.2/AndroidManifest.xml:25:18-59
+33        <package android:name="androidx.test.services" />
+33-->[androidx.test:runner:1.5.2] /Users/sujanparajuli/.gradle/caches/transforms-3/80a2b419968f7cd60b6f000f1b18d2a8/transformed/runner-1.5.2/AndroidManifest.xml:26:9-58
+33-->[androidx.test:runner:1.5.2] /Users/sujanparajuli/.gradle/caches/transforms-3/80a2b419968f7cd60b6f000f1b18d2a8/transformed/runner-1.5.2/AndroidManifest.xml:26:18-55
+34        <package android:name="com.google.android.apps.common.testing.services" />
+34-->[androidx.test:runner:1.5.2] /Users/sujanparajuli/.gradle/caches/transforms-3/80a2b419968f7cd60b6f000f1b18d2a8/transformed/runner-1.5.2/AndroidManifest.xml:27:9-83
+34-->[androidx.test:runner:1.5.2] /Users/sujanparajuli/.gradle/caches/transforms-3/80a2b419968f7cd60b6f000f1b18d2a8/transformed/runner-1.5.2/AndroidManifest.xml:27:18-80
+35    </queries>
+36
+37    <uses-permission android:name="android.permission.REORDER_TASKS" />
+37-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:24:5-72
+37-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:24:22-69
+38
+39    <application
+39-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:31:5-43:19
+40        android:debuggable="true"
+41        android:extractNativeLibs="false" >
+42        <activity
+42-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:32:9-34:39
+43            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+43-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:33:13-99
+44            android:exported="true"
+44-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:34:13-36
+45            android:theme="@style/WhiteBackgroundTheme" >
+45-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:30:13-56
+46            <intent-filter android:priority="-100" >
+46-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:13-33:29
+46-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:28-51
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:32:17-77
+47-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:32:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:35:9-37:39
+51            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+51-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:36:13-95
+52            android:exported="true"
+52-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:37:13-36
+53            android:theme="@style/WhiteBackgroundTheme" >
+53-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:38:13-56
+54            <intent-filter android:priority="-100" >
+54-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:13-33:29
+54-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:28-51
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:32:17-77
+55-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:32:27-74
+56            </intent-filter>
+57        </activity>
+58        <activity
+58-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:38:9-40:39
+59            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+59-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:39:13-103
+60            android:exported="true"
+60-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:40:13-36
+61            android:theme="@style/WhiteBackgroundDialogTheme" >
+61-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:46:13-62
+62            <intent-filter android:priority="-100" >
+62-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:13-33:29
+62-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:28-51
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:32:17-77
+63-->[androidx.test:core:1.5.0] /Users/sujanparajuli/.gradle/caches/transforms-3/5c237199451000ebc9a93ba7c69eb556/transformed/jetified-core-1.5.0/AndroidManifest.xml:32:27-74
+64            </intent-filter>
+65        </activity>
+66
+67        <uses-library android:name="android.test.runner" />
+67-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:42:9-60
+67-->/Users/sujanparajuli/AndroidStudioProjects/media-samples/PictureInPictureKotlin/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile2ProcessTestManifest13902232855784845984.xml:42:23-57
+68    </application>
+69
+70</manifest>

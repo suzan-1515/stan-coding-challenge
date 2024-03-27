@@ -1,0 +1,2 @@
+03-27 19:46:57.462 26860 26890 I TestRunner: started: testRestoreStartState(com.example.android.pictureinpicture.MainViewModelTest)
+03-27 19:46:57.475 26860 26890 I TestRunner: finished: testRestoreStartState(com.example.android.pictureinpicture.MainViewModelTest)
